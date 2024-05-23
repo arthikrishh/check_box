@@ -27,13 +27,13 @@ This Flutter app provides a simple and intuitive user interface for selecting pr
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/checkbox_profession_selector.git
+    git clone https://github.com/arthikrishh/check_box.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd checkbox_profession_selector
+    cd check_box
     ```
 
 3. Run the app on your preferred device (emulator or physical device):
